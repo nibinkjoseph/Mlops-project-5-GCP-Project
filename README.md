@@ -43,7 +43,9 @@ git clone https://github.com/nibinkjoseph/vertex-ai-mlops.git
 ![image](https://github.com/nibinkjoseph/Mlops-project-5-GCP-Project/assets/63180074/e80b6795-8451-4588-827c-2ed90e6ab808)
 
 
+![image](https://github.com/nibinkjoseph/Mlops-project-5-GCP-Project/assets/63180074/8eeda9c7-a3a9-4d37-b0b8-009327c3bbae)
 
+![image](https://github.com/nibinkjoseph/Mlops-project-5-GCP-Project/assets/63180074/d22b7fa5-b1a1-4a6f-8300-cd7b63306458)
 
 
 
